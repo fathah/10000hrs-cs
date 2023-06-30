@@ -6,14 +6,14 @@ Welcome to 10000hrs-cs! This repository is dedicated to providing a comprehensiv
 
 The repository is organized into different sections, covering various aspects of computer science. Here's an overview of the content you'll find:
 
-1. **Algorithms and Data Structures**: Explore fundamental algorithms, data structures, and their implementations in various programming languages.
-2. **Programming Languages**: Learn about different programming languages, their syntax, features, and best practices.
-3. **Web Development**: Dive into web development topics, including HTML, CSS, JavaScript, frameworks, and libraries.
-4. **Database Systems**: Understand the concepts and principles of database systems, SQL, and NoSQL databases.
-5. **Operating Systems**: Get insights into operating systems, their components, processes, memory management, and file systems.
-6. **Networking**: Discover the fundamentals of computer networking, protocols, and network architecture.
-7. **Software Engineering**: Learn about software development methodologies, software testing, and project management.
-8. **Artificial Intelligence**: Explore the exciting field of AI, including machine learning, neural networks, and deep learning.
+1. **[Algorithms and Data Structures](#algorithms-and-data-structures)**: Explore fundamental algorithms, data structures, and their implementations in various programming languages.
+2. **[Programming Languages](#programming-languages)**: Learn about different programming languages, their syntax, features, and best practices.
+3. **[Web Development](#web-development)**: Dive into web development topics, including HTML, CSS, JavaScript, frameworks, and libraries.
+4. **[Database Systems](#database-systems)**: Understand the concepts and principles of database systems, SQL, and NoSQL databases.
+5. **[Operating Systems](#operating-systems)**: Get insights into operating systems, their components, processes, memory management, and file systems.
+6. **[Networking](#networking)**: Discover the fundamentals of computer networking, protocols, and network architecture.
+7. **[Software Engineering](#software-engineering)**: Learn about software development methodologies, software testing, and project management.
+8. **[Artificial Intelligence](#artificial-intelligence)**: Explore the exciting field of AI, including machine learning, neural networks, and deep learning.
 
 ## How to Use this Repository
 
@@ -39,3 +39,36 @@ The content in this repository is available under the [MIT License](LICENSE). Fe
 This repository would not be possible without the collective effort of numerous contributors who have dedicated their time and expertise to create and curate the content. A heartfelt thank you to all the contributors for making this repository a valuable resource for the CS community.
 
 Let's embark on this journey together, and may your 10,000 hours in computer science be both educational and fulfilling!
+
+
+
+## Algorithms and Data Structures
+
+...
+
+## Programming Languages
+
+...
+
+## Web Development
+
+...
+
+## Database Systems
+
+...
+
+## Operating Systems
+
+...
+
+## Networking
+
+...
+
+## Software Engineering
+
+...
+
+## Artificial Intelligence
+...
