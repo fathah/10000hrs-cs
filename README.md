@@ -43,8 +43,8 @@ Let's embark on this journey together, and may your 10,000 hours in computer sci
 
 
 ## Algorithms and Data Structures
+▶️ [Top 5 Algorithms in 80% Coding Interviews](https://www.youtube.com/watch?v=EM8IgIIiOdY)
 
-...
 
 ## Programming Languages
 
@@ -67,8 +67,12 @@ Let's embark on this journey together, and may your 10,000 hours in computer sci
 ...
 
 ## Software Engineering
+📄 [CI (Continuous Integration) and CD (Continuous Delivery) for absolute beginners](https://fathahcr.medium.com/ci-continuous-integration-and-cd-continuous-delivery-for-absolute-beginners-15cfecfcc0ae)
 
-...
+📄 [Agile Software Development Life Cycle (SDLC) for complete beginners](https://fathahcr.medium.com/agile-software-development-life-cycle-sdlc-for-complete-beginners-3be9ea860c55)
+
+📄 [Git vs Subversion: An intuitive explanation](https://fathahcr.medium.com/git-vs-subversion-an-intuitive-explanation-f564e935b8f0)
+
 
 ## Artificial Intelligence
 ...
