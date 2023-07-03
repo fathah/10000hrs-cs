@@ -71,8 +71,24 @@ Let's embark on this journey together, and may your 10,000 hours in computer sci
 
 📄 [Agile Software Development Life Cycle (SDLC) for complete beginners](https://fathahcr.medium.com/agile-software-development-life-cycle-sdlc-for-complete-beginners-3be9ea860c55)
 
-📄 [Git vs Subversion: An intuitive explanation](https://fathahcr.medium.com/git-vs-subversion-an-intuitive-explanation-f564e935b8f0)
-
+📄 [Git vs Subversion: An intuitive explanation](https://fathahcr.medium.com/git-vs-subversion-an-intuitive-explanation-f564e935b8f0) 
 
 ## Artificial Intelligence
-...
+### Machine Learning
+
+📄 Support-Vector Machines (SVMs) 
+
+📄 Bayesian Networks 
+
+📄 Maximum Entropy 
+
+📄 Conditional Random Fields 
+
+📄 Neural Networks 
+
+📄 Clustering 
+
+📄 Latent Semantic Indexing (LSI)
+
+📄 Matrix Factorization
+
