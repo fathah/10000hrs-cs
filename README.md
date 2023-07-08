@@ -75,7 +75,7 @@ Let's embark on this journey together, and may your 10,000 hours in computer sci
 
 ## Artificial Intelligence
 ### Machine Learning
-
+📄 [How to Choose the Machine Learning Algorithm](https://business.amazon.in/en/campaigns/registration)
 📄 Support-Vector Machines (SVMs) 
 
 📄 Bayesian Networks 
